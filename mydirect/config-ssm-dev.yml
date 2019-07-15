@@ -13,3 +13,4 @@ spring:
 mybatis:
   type-aliases-package: com.joey.demo.pojo
   mapper-locations: classpath:mapping/*.xml
+myname: zhou
